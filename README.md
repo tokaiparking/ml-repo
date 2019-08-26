@@ -6,3 +6,4 @@ add
 test-slack
 slack test
 slack test
+retry
